@@ -1,0 +1,30 @@
+_repo: The-Guarded-Heights_33733
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Camp, Wadsworth
+    alias: Camp, Charles Wadsworth
+    birthdate: 1879
+    deathdate: 1936
+    gutenberg_agent_id: '3731'
+    url: http://www.gutenberg.org/2009/agents/3731
+description: ''
+gutenberg_issued: '2010-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33733'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Princeton University -- Fiction'
+- !lcsh 'Social classes -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Love stories'
+title: The Guarded Heights
+url: http://www.gutenberg.org/ebooks/33733
